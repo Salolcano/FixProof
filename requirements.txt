@@ -1,0 +1,2 @@
+# Only the unit tests need Python packages. They run without any GenLayer tooling.
+pytest>=8.0
